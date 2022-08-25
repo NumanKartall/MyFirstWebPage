@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numan Kartal</title>
+</head>
+
+<body style="background-color:aqua; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+    <h1 style="color: darkblue;">Numan Kartal</h1>
+
+    <h2 style="color:darkred; ">Hakkımda:</h2>
+    <p>Merhabalar ben Numan Kartal Antalya'da yaşıyorum 21 yaşındayım Kütahya Dumlupınar Üniversitesi PC programcılığı bölümü mezunuyum.Bilgisayar oyunları oynamayı kendimi geliştirmeyi araştırmayı tasarlamayı kısaca bilgisayarla alakalı herşeyi seviyorum.
+       Sosyal hayatımda ise gezmekle, kitap okumakla, kedimle oynamakla geçiyor.Kodluyoruz eğitimlerinden Front End eğitimini almaya başladım ve çok eğlenceli ve dolu dolu geçiyor umarım güzel şeyler çıkartırım şimdilik bu kadar...
+    </p>
+
+    <h2 style="color: darkred;">Sevdiğim Oyunlar:</h2>
+
+    <h4 style="color:darkgreen;">League of Legends, COD serisi, BF serisi, GTA, CS-GO ve bazı similasyon oyunları</h4>
+
+    <p>Genel olarak bu oyunları seviyorum hem online hem de aksiyon oyunları çalışma hayatı yanında bu oyunları oynayıp kendimi eğlendiriyorum.</p>
+    <p>Bunun dışında gerçek hayatta da basketbol voleybol gibi oyunlar da oynuyorum boş bulundukça.Yüzmeyi seviyorum...Benim hayatım böyle geçiyor..</p>
+
+</body>
+
+</html>
